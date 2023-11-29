@@ -11,7 +11,7 @@ int main() {
     freopen("output.txt", "w", stdout);
     #endif
     
-    cout<<"testing"<<"\n";      
+    cout<<"testing"<<"\n";      dsdvv
  
     return 0;
 }
